@@ -10,7 +10,7 @@
 **ClawLib** is a unified AI Agent Framework designed for the Claw ecosystem. It provides a robust, provider-agnostic core to build autonomous agents that can think, act, and communicate across multiple channels.
 
 ### 🎥 Demo
-<video src="./assets/clawLib.mp4" controls width="100%"></video>
+![ClawLib Demo](./assets/demo.gif)
 
 
 ### ✨ Highlights
@@ -46,7 +46,7 @@
 **ClawLib** は、Claw エコシステム向けに設計された統合 AI エージェントフレームワークです。プロバイダーに依存しない堅牢なコアを提供し、複数のチャネルで思考、行動、通信ができる自律型エージェントの構築を支援します。
 
 ### 🎥 デモ
-<video src="./assets/clawLib.mp4" controls width="100%"></video>
+![ClawLib Demo](./assets/demo.gif)
 
 
 ### ✨ ハイライト
